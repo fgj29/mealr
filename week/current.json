@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-09-21T15:00:00.000Z",
+  "weekStart": "2026-09-21",
+  "recipes": [
+    {
+      "id": "drop-mon",
+      "title": "Mexican turkey skillet",
+      "cuisine": "Mexican",
+      "protein": "turkey",
+      "minutes": 20,
+      "calories": 480,
+      "servings": 2,
+      "summary": "One pan: 93% turkey, peppers, black beans, salsa. Rice + avocado on the side.",
+      "ingredients": [
+        { "section": "Meat & Seafood", "name": "1 lb 93% ground turkey" },
+        { "section": "Produce", "name": "1 yellow onion" },
+        { "section": "Produce", "name": "1 bell pepper" },
+        { "section": "Produce", "name": "1 avocado" },
+        { "section": "Produce", "name": "cilantro" },
+        { "section": "Grocery aisles", "name": "Sprouts black beans, 15 oz" },
+        { "section": "Grocery aisles", "name": "salsa 12–16 oz" },
+        { "section": "Bulk", "name": "jasmine rice pouch" }
+      ],
+      "steps": [
+        "Brown turkey in a skillet with onion and bell pepper, 8–10 min.",
+        "Stir in beans, cumin, chili powder, salt, and salsa. Simmer 3 min.",
+        "Heat rice pouch. Plate with avocado and cilantro."
+      ]
+    },
+    {
+      "id": "drop-tue",
+      "title": "Greek chicken thighs + cucumber salad",
+      "cuisine": "Mediterranean",
+      "protein": "chicken",
+      "minutes": 25,
+      "calories": 520,
+      "servings": 2,
+      "summary": "Oregano-garlic thighs, pan or sheet. Cold cucumber-tomato-feta salad.",
+      "ingredients": [
+        { "section": "Meat & Seafood", "name": "1 lb boneless skinless chicken thighs" },
+        { "section": "Produce", "name": "2 cucumbers" },
+        { "section": "Produce", "name": "2 tomatoes or 1 pint cherry" },
+        { "section": "Produce", "name": "½ small red onion" },
+        { "section": "Produce", "name": "lemon" },
+        { "section": "Dairy", "name": "4 oz feta" }
+      ],
+      "steps": [
+        "Toss thighs with oil, oregano, garlic, salt, pepper.",
+        "Sear or roast at 425°F until 165°F, about 18–20 min.",
+        "Chop cucumber, tomato, onion. Dress with oil, lemon, feta."
+      ]
+    },
+    {
+      "id": "drop-wed",
+      "title": "Garlic-ginger shrimp stir-fry",
+      "cuisine": "East Asian",
+      "protein": "shrimp",
+      "minutes": 20,
+      "calories": 430,
+      "servings": 2,
+      "summary": "Hot pan, EZ-peel shrimp, broccoli, soy. Rice pouch.",
+      "ingredients": [
+        { "section": "Meat & Seafood", "name": "1 lb large EZ-peel shrimp" },
+        { "section": "Produce", "name": "1 head broccoli or bag florets" },
+        { "section": "Produce", "name": "1 bell pepper" },
+        { "section": "Produce", "name": "garlic + fresh ginger" },
+        { "section": "Grocery aisles", "name": "soy sauce" },
+        { "section": "Bulk", "name": "jasmine rice pouch" }
+      ],
+      "steps": [
+        "Peel shrimp if needed. Heat skillet until almost smoking.",
+        "Garlic and ginger 30 sec, then shrimp 2 min.",
+        "Add broccoli and pepper. Splash soy. Serve over rice."
+      ]
+    },
+    {
+      "id": "drop-thu",
+      "title": "Sheet-pan salmon + corn + potatoes",
+      "cuisine": "American",
+      "protein": "salmon",
+      "minutes": 25,
+      "calories": 560,
+      "servings": 2,
+      "summary": "Potatoes first, then salmon and corn. Lemon and parsley to finish.",
+      "ingredients": [
+        { "section": "Meat & Seafood", "name": "2 Atlantic salmon fillets (~6 oz each)" },
+        { "section": "Produce", "name": "1.5–2 lb small red/gold potatoes" },
+        { "section": "Produce", "name": "2 ears sweet corn" },
+        { "section": "Produce", "name": "lemon + parsley" }
+      ],
+      "steps": [
+        "Heat oven to 425°F. Toss potatoes with oil and salt. Roast 10 min.",
+        "Add salmon and corn. Roast 12–14 min more.",
+        "Finish with lemon and parsley."
+      ]
+    }
+  ]
+}
