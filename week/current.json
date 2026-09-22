@@ -1,97 +1,122 @@
 {
-  "generatedAt": "2026-09-21T15:00:00.000Z",
+  "generatedAt": "2026-09-22T07:37:00.000Z",
   "weekStart": "2026-09-21",
   "recipes": [
     {
-      "id": "drop-mon",
-      "title": "Mexican turkey skillet",
+      "id": "web-mon",
+      "title": "Turkey taco skillet",
       "cuisine": "Mexican",
       "protein": "turkey",
-      "minutes": 20,
-      "calories": 480,
+      "minutes": 25,
+      "calories": 500,
       "servings": 2,
-      "summary": "One pan: 93% turkey, peppers, black beans, salsa. Rice + avocado on the side.",
+      "summary": "93% turkey browned with onion and pepper, then black beans, salsa, and cumin. Rice pouch and avocado on the side.",
       "ingredients": [
-        { "section": "Meat & Seafood", "name": "1 lb 93% ground turkey" },
+        { "section": "Meat & Seafood", "name": "1 lb 93% all-natural ground turkey" },
         { "section": "Produce", "name": "1 yellow onion" },
         { "section": "Produce", "name": "1 bell pepper" },
         { "section": "Produce", "name": "1 avocado" },
         { "section": "Produce", "name": "cilantro" },
+        { "section": "Produce", "name": "1 lime" },
         { "section": "Grocery aisles", "name": "Sprouts black beans, 15 oz" },
         { "section": "Grocery aisles", "name": "salsa 12–16 oz" },
-        { "section": "Bulk", "name": "jasmine rice pouch" }
+        { "section": "Bulk", "name": "jasmine rice microwave pouch" }
       ],
       "steps": [
-        "Brown turkey in a skillet with onion and bell pepper, 8–10 min.",
-        "Stir in beans, cumin, chili powder, salt, and salsa. Simmer 3 min.",
-        "Heat rice pouch. Plate with avocado and cilantro."
+        "Dice onion and bell pepper. Heat a skillet over medium-high with a little oil.",
+        "Brown turkey with onion and pepper, breaking it up, 8–10 min.",
+        "Stir in drained beans, chili powder, cumin, salt, and salsa. Simmer 3 min.",
+        "Heat rice pouch. Plate skillet over rice with avocado, cilantro, and lime."
+      ],
+      "sources": [
+        { "kind": "web", "label": "Budget Bytes turkey taco skillet", "url": "https://www.budgetbytes.com/turkey-taco-skillet/" },
+        { "kind": "web", "label": "Wheatless Kitchen 30-min skillet", "url": "https://www.thewheatlesskitchen.com/30-minute-turkey-taco-skillet-one-pan-dinner/" }
       ]
     },
     {
-      "id": "drop-tue",
-      "title": "Greek chicken thighs + cucumber salad",
-      "cuisine": "Mediterranean",
+      "id": "web-tue",
+      "title": "One-pot chicken tomato pasta",
+      "cuisine": "Italian",
       "protein": "chicken",
-      "minutes": 25,
-      "calories": 520,
+      "minutes": 30,
+      "calories": 530,
       "servings": 2,
-      "summary": "Oregano-garlic thighs, pan or sheet. Cold cucumber-tomato-feta salad.",
+      "summary": "Chicken breast cooked with garlic, crushed tomato, spinach, and whole-wheat pasta in one pot. Parmesan to finish.",
       "ingredients": [
-        { "section": "Meat & Seafood", "name": "1 lb boneless skinless chicken thighs" },
-        { "section": "Produce", "name": "2 cucumbers" },
-        { "section": "Produce", "name": "2 tomatoes or 1 pint cherry" },
-        { "section": "Produce", "name": "½ small red onion" },
-        { "section": "Produce", "name": "lemon" },
-        { "section": "Dairy", "name": "4 oz feta" }
+        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken breast" },
+        { "section": "Produce", "name": "3 garlic cloves" },
+        { "section": "Produce", "name": "5 oz baby spinach" },
+        { "section": "Produce", "name": "fresh basil" },
+        { "section": "Grocery aisles", "name": "whole-wheat pasta, 8 oz" },
+        { "section": "Grocery aisles", "name": "crushed tomatoes, 14 oz" },
+        { "section": "Dairy", "name": "Parmesan, small wedge" }
       ],
       "steps": [
-        "Toss thighs with oil, oregano, garlic, salt, pepper.",
-        "Sear or roast at 425°F until 165°F, about 18–20 min.",
-        "Chop cucumber, tomato, onion. Dress with oil, lemon, feta."
+        "Cut chicken into bite-size pieces. Sear in a pot with oil, salt, and pepper until just cooked; pull to a plate.",
+        "Saute garlic 30 sec. Add crushed tomatoes, 2 cups water, pasta, and a pinch of salt. Simmer uncovered, stirring, until pasta is al dente, about 12 min.",
+        "Fold chicken and spinach back in until spinach wilts. Finish with Parmesan and basil."
+      ],
+      "sources": [
+        { "kind": "web", "label": "The Kitchn one-pot meals", "url": "https://www.thekitchn.com/one-pot-meals-for-dinner-23745120" },
+        { "kind": "web", "label": "Budget Bytes chicken pasta", "url": "https://www.budgetbytes.com/category/recipes/pasta/chicken-pasta/" }
       ]
     },
     {
-      "id": "drop-wed",
+      "id": "web-wed",
       "title": "Garlic-ginger shrimp stir-fry",
-      "cuisine": "East Asian",
+      "cuisine": "Asian",
       "protein": "shrimp",
       "minutes": 20,
-      "calories": 430,
+      "calories": 440,
       "servings": 2,
-      "summary": "Hot pan, EZ-peel shrimp, broccoli, soy. Rice pouch.",
+      "summary": "Her plate: EZ-peel shrimp with broccoli, pepper, soy, and ginger over jasmine rice. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
-        { "section": "Meat & Seafood", "name": "1 lb large EZ-peel shrimp" },
-        { "section": "Produce", "name": "1 head broccoli or bag florets" },
-        { "section": "Produce", "name": "1 bell pepper" },
+        { "section": "Meat & Seafood", "name": "¾ lb large EZ-peel shrimp" },
+        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs (his plate)" },
+        { "section": "Produce", "name": "1 head broccoli" },
+        { "section": "Produce", "name": "1 red bell pepper" },
         { "section": "Produce", "name": "garlic + fresh ginger" },
+        { "section": "Produce", "name": "2 green onions" },
         { "section": "Grocery aisles", "name": "soy sauce" },
-        { "section": "Bulk", "name": "jasmine rice pouch" }
+        { "section": "Bulk", "name": "jasmine rice microwave pouch" }
       ],
       "steps": [
-        "Peel shrimp if needed. Heat skillet until almost smoking.",
-        "Garlic and ginger 30 sec, then shrimp 2 min.",
-        "Add broccoli and pepper. Splash soy. Serve over rice."
+        "Peel shrimp if needed; pat dry. Cut broccoli into florets and pepper into strips. Heat rice pouch.",
+        "Hot skillet, oil almost smoking. Garlic and ginger 20 sec. Shrimp 2 min until just pink; pull.",
+        "Stir-fry broccoli and pepper 3–4 min. Splash soy. Return shrimp, toss, top with green onion. Serve over rice.",
+        "His plate: same veg and rice; cook the chicken thighs in the same pan instead of shrimp."
+      ],
+      "sources": [
+        { "kind": "web", "label": "Simply Delicious 20-min shrimp stir fry", "url": "https://simply-delicious-food.com/20-minute-shrimp-stir-fry/" },
+        { "kind": "x", "label": "X garlic butter shrimp weeknight", "url": "https://x.com/bettyisabel9la8/status/2102270950892802130" },
+        { "kind": "reddit", "label": "r/cookingforbeginners stir-fry", "url": "https://www.reddit.com/r/cookingforbeginners/comments/1nztroo/beginner_here_what_are_your_really_easy_1530/" }
       ]
     },
     {
-      "id": "drop-thu",
-      "title": "Sheet-pan salmon + corn + potatoes",
+      "id": "web-thu",
+      "title": "Sheet-pan lemon salmon and potatoes",
       "cuisine": "American",
       "protein": "salmon",
-      "minutes": 25,
-      "calories": 560,
+      "minutes": 30,
+      "calories": 510,
       "servings": 2,
-      "summary": "Potatoes first, then salmon and corn. Lemon and parsley to finish.",
+      "summary": "Her plate: Atlantic salmon roasted with potatoes and green beans, lemon finish. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
-        { "section": "Meat & Seafood", "name": "2 Atlantic salmon fillets (~6 oz each)" },
-        { "section": "Produce", "name": "1.5–2 lb small red/gold potatoes" },
-        { "section": "Produce", "name": "2 ears sweet corn" },
-        { "section": "Produce", "name": "lemon + parsley" }
+        { "section": "Meat & Seafood", "name": "2 Atlantic salmon portions (~6 oz each)" },
+        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs (his plate)" },
+        { "section": "Produce", "name": "1.5 lb small red or gold potatoes" },
+        { "section": "Produce", "name": "12 oz green beans" },
+        { "section": "Produce", "name": "1 lemon" },
+        { "section": "Produce", "name": "parsley" }
       ],
       "steps": [
-        "Heat oven to 425°F. Toss potatoes with oil and salt. Roast 10 min.",
-        "Add salmon and corn. Roast 12–14 min more.",
-        "Finish with lemon and parsley."
+        "Heat oven to 425°F. Halve potatoes, toss with oil and salt, roast 12 min.",
+        "Add green beans and salmon (oil, salt, pepper, lemon zest). Roast 12–14 min more until salmon flakes.",
+        "Squeeze lemon, scatter parsley. His plate: same tray timing with chicken thighs instead of salmon."
+      ],
+      "sources": [
+        { "kind": "web", "label": "Budget Bytes one-pan salmon", "url": "https://www.budgetbytes.com/one-pan-salmon-dinner/" },
+        { "kind": "web", "label": "EatingWell sheet-pan salmon", "url": "https://www.eatingwell.com/recipe/281181/sheet-pan-salmon-with-sweet-potatoes-broccoli/" }
       ]
     }
   ]
