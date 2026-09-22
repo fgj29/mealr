@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/login",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Weeknight Table",
+      "hasCanvas": false,
+      "bodyTextLen": 185,
+      "bodyTextHash": "4dc3c6c138cd9f3e58aed82ab89bce98d1d75f27ad73a6dff6e0b3f87476c96a",
+      "bodyTextPrefix": "WEEKNIGHT TABLE Sign in Same kitchen on your phone and hers. Goo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Weeknight Table",
+      "hasCanvas": false,
+      "bodyTextLen": 185,
+      "bodyTextHash": "4dc3c6c138cd9f3e58aed82ab89bce98d1d75f27ad73a6dff6e0b3f87476c96a",
+      "bodyTextPrefix": "WEEKNIGHT TABLE Sign in Same kitchen on your phone and hers. Goo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/login.json"
+}

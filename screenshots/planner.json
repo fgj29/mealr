@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/plan",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Weeknight Table",
+      "hasCanvas": false,
+      "bodyTextLen": 1183,
+      "bodyTextHash": "ca3090147cba7aca7b5b67742cc9f06c6846b9fb319622207f5b957c5eb18356",
+      "bodyTextPrefix": "Weeknight Table Mon–Thu · two plates · Carson Sprouts This week ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/planner.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Weeknight Table",
+      "hasCanvas": false,
+      "bodyTextLen": 1147,
+      "bodyTextHash": "f4daf5e9f4ed29cd8ce9c3cd39785965fc624ebbebc098fd3ed4817d9145ae01",
+      "bodyTextPrefix": "Weeknight Table Mon–Thu · two plates · Carson Sprouts PLANNER Co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/planner-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/planner.json"
+}
