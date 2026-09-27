@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T09:05:00.000Z",
-  "weekStart": "2026-09-21",
+  "generatedAt": "2026-09-27T15:03:00.000Z",
+  "weekStart": "2026-09-28",
   "recipes": [
     {
       "id": "web-mon",
@@ -32,36 +32,36 @@
       ],
       "sources": [
         { "kind": "web", "label": "Budget Bytes turkey taco skillet", "url": "https://www.budgetbytes.com/turkey-taco-skillet/" },
-        { "kind": "web", "label": "Wheatless Kitchen 30-min skillet", "url": "https://www.thewheatlesskitchen.com/30-minute-turkey-taco-skillet-one-pan-dinner/" }
+        { "kind": "web", "label": "Wheatless Kitchen 30-min skillet", "url": "https://www.thewheatlesskitchen.com/30-minute-turkey-taco-skillet-one-pan-dinner/" },
+        { "kind": "reddit", "label": "r/MealPrepSunday Tex-Mex skillet", "url": "https://www.reddit.com/r/MealPrepSunday/comments/f3l5mf/tex_mex_chicken_zucchini_skillet_recipe_in/" }
       ]
     },
     {
       "id": "web-tue",
-      "title": "One-pot chicken tomato pasta",
+      "title": "Chicken spinach lemon pasta",
       "cuisine": "Italian",
       "protein": "chicken",
-      "minutes": 30,
-      "calories": 530,
+      "minutes": 25,
+      "calories": 520,
       "servings": 2,
-      "summary": "Bite-size chicken with garlic, crushed tomato, spinach, and whole-wheat pasta in one pot. Parmesan to finish.",
+      "summary": "Bite-size chicken with garlic, lemon, spinach, and whole-wheat pasta. Parmesan to finish.",
       "ingredients": [
-        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken breast" },
+        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken breast or thighs" },
         { "section": "Produce", "name": "3 garlic cloves" },
         { "section": "Produce", "name": "5 oz baby spinach" },
-        { "section": "Produce", "name": "fresh basil" },
+        { "section": "Produce", "name": "1 lemon" },
         { "section": "Grocery aisles", "name": "olive oil" },
         { "section": "Grocery aisles", "name": "whole-wheat pasta, 8 oz" },
-        { "section": "Grocery aisles", "name": "crushed tomatoes, 14 oz" },
         { "section": "Dairy", "name": "Parmesan, small wedge" }
       ],
       "steps": [
-        "Cut chicken into bite-size pieces. Medium-high pot, a little oil, salt, pepper. Sear until just cooked through (165°F), 5–6 min. Pull to a plate.",
-        "Same pot: garlic 30 sec. Add crushed tomatoes, 1½ cups water, pasta, a pinch of salt. Simmer uncovered, stirring, until pasta is al dente, 10–12 min. Splash water if it sticks.",
-        "Fold chicken and spinach in for 2 min until spinach wilts. Finish with Parmesan and basil."
+        "Boil pasta. Cut chicken into bite-size pieces.",
+        "Medium-high skillet, a little oil, salt, pepper. Sear chicken until 165°F, 5–6 min. Add garlic 30 sec.",
+        "Off heat splash lemon juice. Fold in drained pasta and spinach until wilted. Parmesan on top."
       ],
       "sources": [
-        { "kind": "web", "label": "The Kitchn one-pot meals", "url": "https://www.thekitchn.com/one-pot-meals-for-dinner-23745120" },
-        { "kind": "web", "label": "Budget Bytes chicken pasta", "url": "https://www.budgetbytes.com/category/recipes/pasta/chicken-pasta/" }
+        { "kind": "web", "label": "EatingWell chicken spinach skillet pasta", "url": "https://www.eatingwell.com/recipe/267768/chicken-spinach-skillet-pasta-with-lemon-parmesan/" },
+        { "kind": "web", "label": "Simply Recipes 30-min chicken pasta", "url": "https://www.simplyrecipes.com/easy-chicken-pasta-recipes-11801946" }
       ]
     },
     {
@@ -72,7 +72,7 @@
       "minutes": 20,
       "calories": 440,
       "servings": 2,
-      "summary": "EZ-peel shrimp with broccoli, pepper, soy, and ginger over jasmine rice.",
+      "summary": "EZ-peel shrimp with broccoli, pepper, soy, and ginger over jasmine rice. App swaps chicken onto his plate.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "1 lb large EZ-peel shrimp" },
         { "section": "Produce", "name": "1 head broccoli" },
@@ -86,38 +86,38 @@
         "Peel shrimp if needed and pat dry. Cut broccoli into florets and pepper into strips. Mince garlic and ginger. Start the rice pouch.",
         "Hottest skillet, a little oil. Broccoli and pepper 3–4 min until crisp-tender; push aside.",
         "Garlic and ginger 20 sec. Shrimp in a single layer 1–2 min per side until just opaque.",
-        "Splash soy. Toss. Scatter green onion on top. Serve over rice."
+        "Splash soy. Toss. Scatter green onion. Serve over rice."
       ],
       "sources": [
-        { "kind": "web", "label": "Simply Delicious 20-min shrimp stir fry", "url": "https://simply-delicious-food.com/20-minute-shrimp-stir-fry/" },
-        { "kind": "x", "label": "X garlic butter shrimp weeknight", "url": "https://x.com/bettyisabel9la8/status/2102270950892802130" },
-        { "kind": "reddit", "label": "r/cookingforbeginners stir-fry", "url": "https://www.reddit.com/r/cookingforbeginners/comments/1nztroo/beginner_here_what_are_your_really_easy_1530/" }
+        { "kind": "web", "label": "The Kitchn shrimp stir-fry", "url": "https://www.thekitchn.com/shrimp-stir-fry-22943630" },
+        { "kind": "web", "label": "Skinnytaste shrimp stir fry", "url": "https://www.skinnytaste.com/shrimp-stir-fry/" },
+        { "kind": "reddit", "label": "r/MealPrepSunday sheet-pan shrimp fajitas", "url": "https://www.reddit.com/r/MealPrepSunday/comments/lkhygx/sheet_pan_shrimp_fajitas/" }
       ]
     },
     {
       "id": "web-thu",
-      "title": "Sheet-pan lemon salmon and potatoes",
+      "title": "Sheet-pan lemon salmon and asparagus",
       "cuisine": "American",
       "protein": "salmon",
-      "minutes": 30,
-      "calories": 510,
+      "minutes": 25,
+      "calories": 490,
       "servings": 2,
-      "summary": "Atlantic salmon roasted with potatoes and green beans, lemon finish.",
+      "summary": "Atlantic salmon roasted with asparagus and lemon. App swaps chicken onto his plate.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "2 Atlantic salmon portions (~6 oz each)" },
-        { "section": "Produce", "name": "1½ lb small red or gold potatoes" },
-        { "section": "Produce", "name": "12 oz green beans" },
+        { "section": "Produce", "name": "1 bunch asparagus" },
         { "section": "Produce", "name": "1 lemon" },
         { "section": "Produce", "name": "parsley" }
       ],
       "steps": [
-        "Heat oven to 425°F. Halve potatoes, toss with oil and salt, roast 12 min.",
-        "Oil, salt, and pepper the salmon. Add salmon and green beans to the sheet. Roast 10–12 min more until salmon flakes (145°F) and potatoes are tender.",
+        "Heat oven to 400°F. Trim asparagus. Toss with oil and salt on a sheet pan; leave a gap in the middle.",
+        "Oil, salt, and pepper the salmon. Set in the gap. Roast 12–15 min until salmon flakes (145°F) and asparagus is tender.",
         "Squeeze lemon and scatter parsley."
       ],
       "sources": [
+        { "kind": "web", "label": "Simply Recipes sheet-pan salmon asparagus", "url": "https://www.simplyrecipes.com/sheet-pan-salmon-and-asparagus-recipe-8642125" },
         { "kind": "web", "label": "Budget Bytes one-pan salmon", "url": "https://www.budgetbytes.com/one-pan-salmon-dinner/" },
-        { "kind": "web", "label": "EatingWell sheet-pan salmon", "url": "https://www.eatingwell.com/recipe/281181/sheet-pan-salmon-with-sweet-potatoes-broccoli/" }
+        { "kind": "web", "label": "Serious Eats sheet-pan seafood", "url": "https://www.seriouseats.com/sheet-pan-fish-dinners-12112466" }
       ]
     }
   ]
