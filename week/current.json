@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T15:03:00.000Z",
+  "generatedAt": "2026-09-28T05:16:00.000Z",
   "weekStart": "2026-09-28",
   "recipes": [
     {
@@ -117,7 +117,7 @@
       "sources": [
         { "kind": "web", "label": "Simply Recipes sheet-pan salmon asparagus", "url": "https://www.simplyrecipes.com/sheet-pan-salmon-and-asparagus-recipe-8642125" },
         { "kind": "web", "label": "Budget Bytes one-pan salmon", "url": "https://www.budgetbytes.com/one-pan-salmon-dinner/" },
-        { "kind": "web", "label": "Serious Eats sheet-pan seafood", "url": "https://www.seriouseats.com/sheet-pan-fish-dinners-12112466" }
+        { "kind": "web", "label": "Serious Eats sheet-pan seafood", "url": "https://www.seriouseats.com/one-pan-seafood-dinners-12121019" }
       ]
     }
   ]
