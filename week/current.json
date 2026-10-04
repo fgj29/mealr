@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T05:16:00.000Z",
-  "weekStart": "2026-09-28",
+  "generatedAt": "2026-10-04T15:02:00Z",
+  "weekStart": "2026-10-05",
   "recipes": [
     {
       "id": "web-mon",
@@ -8,116 +8,118 @@
       "cuisine": "Mexican",
       "protein": "turkey",
       "minutes": 25,
-      "calories": 500,
+      "calories": 510,
       "servings": 2,
-      "summary": "93% turkey browned with onion and pepper, then black beans, salsa, and cumin. Rice pouch and avocado on the side.",
+      "summary": "Keeper from last week. 93% turkey browned with onion and pepper, then black beans, salsa, and cumin. Corn tortillas and avocado on the side.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "1 lb 93% all-natural ground turkey" },
         { "section": "Produce", "name": "1 yellow onion" },
         { "section": "Produce", "name": "1 bell pepper" },
         { "section": "Produce", "name": "1 avocado" },
-        { "section": "Produce", "name": "cilantro" },
         { "section": "Produce", "name": "1 lime" },
+        { "section": "Produce", "name": "cilantro" },
         { "section": "Grocery aisles", "name": "Sprouts black beans, 15 oz" },
-        { "section": "Grocery aisles", "name": "salsa 12–16 oz" },
-        { "section": "Grocery aisles", "name": "1 tsp cumin" },
-        { "section": "Grocery aisles", "name": "1 tsp chili powder" },
-        { "section": "Bulk", "name": "jasmine rice microwave pouch" }
+        { "section": "Grocery aisles", "name": "salsa, 12 oz" },
+        { "section": "Grocery aisles", "name": "chili powder and cumin" },
+        { "section": "Grocery aisles", "name": "8 corn tortillas" }
       ],
       "steps": [
-        "Dice onion and bell pepper. Drain the beans. Slice avocado.",
-        "Medium-high skillet, a little oil. Brown turkey with onion and pepper, breaking it up, 8–10 min until no pink.",
-        "Stir in drained beans, chili powder, cumin, a pinch of salt, and salsa. Simmer 3 min.",
-        "Heat rice pouch. Two plates: skillet over rice, avocado, cilantro, lime."
+        "Dice the onion and pepper. Drain the beans. Warm tortillas in a dry skillet at the end.",
+        "Medium-high skillet, a little oil. Brown the turkey with onion and pepper, breaking it up, 8–10 minutes until no pink.",
+        "Stir in chili powder, cumin, a pinch of salt, drained beans, and salsa. Simmer 3 minutes.",
+        "Two plates: skillet in tortillas or over them, avocado, cilantro, lime."
       ],
       "sources": [
         { "kind": "web", "label": "Budget Bytes turkey taco skillet", "url": "https://www.budgetbytes.com/turkey-taco-skillet/" },
-        { "kind": "web", "label": "Wheatless Kitchen 30-min skillet", "url": "https://www.thewheatlesskitchen.com/30-minute-turkey-taco-skillet-one-pan-dinner/" },
-        { "kind": "reddit", "label": "r/MealPrepSunday Tex-Mex skillet", "url": "https://www.reddit.com/r/MealPrepSunday/comments/f3l5mf/tex_mex_chicken_zucchini_skillet_recipe_in/" }
+        { "kind": "reddit", "label": "r/EatCheapAndHealthy turkey skillet", "url": "https://www.reddit.com/r/EatCheapAndHealthy/comments/vjqkm7/loaded_baked_sweet_potato_with_ground_turkey/" }
       ]
     },
     {
       "id": "web-tue",
-      "title": "Chicken spinach lemon pasta",
+      "title": "Tomato garlic chicken skillet",
       "cuisine": "Italian",
       "protein": "chicken",
-      "minutes": 25,
-      "calories": 520,
+      "minutes": 28,
+      "calories": 530,
       "servings": 2,
-      "summary": "Bite-size chicken with garlic, lemon, spinach, and whole-wheat pasta. Parmesan to finish.",
+      "summary": "Boneless thighs seared, then a quick garlic-tomato pan sauce over whole-wheat pasta. Basil and a little Parmesan to finish.",
       "ingredients": [
-        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken breast or thighs" },
+        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs" },
         { "section": "Produce", "name": "3 garlic cloves" },
-        { "section": "Produce", "name": "5 oz baby spinach" },
-        { "section": "Produce", "name": "1 lemon" },
+        { "section": "Produce", "name": "1 pint cherry tomatoes" },
+        { "section": "Produce", "name": "fresh basil" },
         { "section": "Grocery aisles", "name": "olive oil" },
-        { "section": "Grocery aisles", "name": "whole-wheat pasta, 8 oz" },
+        { "section": "Grocery aisles", "name": "whole-wheat pasta, 6 oz" },
         { "section": "Dairy", "name": "Parmesan, small wedge" }
       ],
       "steps": [
-        "Boil pasta. Cut chicken into bite-size pieces.",
-        "Medium-high skillet, a little oil, salt, pepper. Sear chicken until 165°F, 5–6 min. Add garlic 30 sec.",
-        "Off heat splash lemon juice. Fold in drained pasta and spinach until wilted. Parmesan on top."
+        "Boil the pasta in salted water. Cut thighs into strips. Halve the tomatoes.",
+        "Medium-high skillet, a little oil, salt and pepper. Sear chicken until browned and 165°F, about 6 minutes. Pull it out.",
+        "Same pan: garlic 30 seconds, then tomatoes until they burst, 4 minutes. Splash of pasta water if it looks dry.",
+        "Toss drained pasta and chicken back in. Tear basil over the top and grate Parmesan."
       ],
       "sources": [
-        { "kind": "web", "label": "EatingWell chicken spinach skillet pasta", "url": "https://www.eatingwell.com/recipe/267768/chicken-spinach-skillet-pasta-with-lemon-parmesan/" },
-        { "kind": "web", "label": "Simply Recipes 30-min chicken pasta", "url": "https://www.simplyrecipes.com/easy-chicken-pasta-recipes-11801946" }
+        { "kind": "web", "label": "Budget Bytes herb butter chicken thighs", "url": "https://www.budgetbytes.com/herb-butter-chicken-thighs/" },
+        { "kind": "x", "label": "air fryer chicken over pasta", "url": "https://x.com/goldengracewsah/status/2106303932754739647" }
       ]
     },
     {
       "id": "web-wed",
-      "title": "Garlic-ginger shrimp stir-fry",
+      "title": "Soy-ginger shrimp stir-fry",
       "cuisine": "Asian",
       "protein": "shrimp",
       "minutes": 20,
-      "calories": 440,
+      "calories": 450,
       "servings": 2,
-      "summary": "EZ-peel shrimp with broccoli, pepper, soy, and ginger over jasmine rice. App swaps chicken onto his plate.",
+      "summary": "Her plate: EZ-peel shrimp with broccoli, pepper, soy, and ginger over jasmine rice. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
-        { "section": "Meat & Seafood", "name": "1 lb large EZ-peel shrimp" },
+        { "section": "Meat & Seafood", "name": "¾ lb large EZ-peel shrimp" },
         { "section": "Produce", "name": "1 head broccoli" },
         { "section": "Produce", "name": "1 red bell pepper" },
-        { "section": "Produce", "name": "Garlic and fresh ginger" },
+        { "section": "Produce", "name": "1-inch ginger" },
+        { "section": "Produce", "name": "2 garlic cloves" },
         { "section": "Produce", "name": "2 green onions" },
         { "section": "Grocery aisles", "name": "soy sauce" },
         { "section": "Bulk", "name": "jasmine rice microwave pouch" }
       ],
       "steps": [
         "Peel shrimp if needed and pat dry. Cut broccoli into florets and pepper into strips. Mince garlic and ginger. Start the rice pouch.",
-        "Hottest skillet, a little oil. Broccoli and pepper 3–4 min until crisp-tender; push aside.",
-        "Garlic and ginger 20 sec. Shrimp in a single layer 1–2 min per side until just opaque.",
-        "Splash soy. Toss. Scatter green onion. Serve over rice."
+        "Hottest skillet, a little oil. Broccoli and pepper 3–4 minutes until crisp-tender. Push aside.",
+        "Garlic and ginger 20 seconds. Shrimp in a single layer, 1–2 minutes a side until just opaque.",
+        "Splash soy, toss, scatter green onion. Serve over rice."
       ],
       "sources": [
-        { "kind": "web", "label": "The Kitchn shrimp stir-fry", "url": "https://www.thekitchn.com/shrimp-stir-fry-22943630" },
-        { "kind": "web", "label": "Skinnytaste shrimp stir fry", "url": "https://www.skinnytaste.com/shrimp-stir-fry/" },
-        { "kind": "reddit", "label": "r/MealPrepSunday sheet-pan shrimp fajitas", "url": "https://www.reddit.com/r/MealPrepSunday/comments/lkhygx/sheet_pan_shrimp_fajitas/" }
+        { "kind": "web", "label": "Inspired Taste shrimp stir fry", "url": "https://www.inspiredtaste.net/93266/shrimp-stir-fry-recipe/" },
+        { "kind": "web", "label": "Skinnytaste shrimp stir fry", "url": "https://www.skinnytaste.com/shrimp-stir-fry/" }
       ]
     },
     {
       "id": "web-thu",
-      "title": "Sheet-pan lemon salmon and asparagus",
+      "title": "Sheet-pan salmon, beans, and tomatoes",
       "cuisine": "American",
       "protein": "salmon",
       "minutes": 25,
-      "calories": 490,
+      "calories": 500,
       "servings": 2,
-      "summary": "Atlantic salmon roasted with asparagus and lemon. App swaps chicken onto his plate.",
+      "summary": "Her plate: Atlantic salmon roasted with green beans, cherry tomatoes, and lemon. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "2 Atlantic salmon portions (~6 oz each)" },
-        { "section": "Produce", "name": "1 bunch asparagus" },
+        { "section": "Produce", "name": "¾ lb green beans" },
+        { "section": "Produce", "name": "1 pint cherry tomatoes" },
         { "section": "Produce", "name": "1 lemon" },
-        { "section": "Produce", "name": "parsley" }
+        { "section": "Produce", "name": "2 garlic cloves" },
+        { "section": "Grocery aisles", "name": "olive oil" }
       ],
       "steps": [
-        "Heat oven to 400°F. Trim asparagus. Toss with oil and salt on a sheet pan; leave a gap in the middle.",
-        "Oil, salt, and pepper the salmon. Set in the gap. Roast 12–15 min until salmon flakes (145°F) and asparagus is tender.",
-        "Squeeze lemon and scatter parsley."
+        "Heat oven to 425°F. Toss green beans and tomatoes with oil, smashed garlic, salt, and pepper on a sheet pan.",
+        "Roast vegetables 8 minutes. Push them to the sides.",
+        "Oil, salt, and pepper the salmon. Set in the gap. Roast 10–12 minutes until it flakes (145°F).",
+        "Squeeze lemon over both plates."
       ],
       "sources": [
-        { "kind": "web", "label": "Simply Recipes sheet-pan salmon asparagus", "url": "https://www.simplyrecipes.com/sheet-pan-salmon-and-asparagus-recipe-8642125" },
-        { "kind": "web", "label": "Budget Bytes one-pan salmon", "url": "https://www.budgetbytes.com/one-pan-salmon-dinner/" },
-        { "kind": "web", "label": "Serious Eats sheet-pan seafood", "url": "https://www.seriouseats.com/one-pan-seafood-dinners-12121019" }
+        { "kind": "web", "label": "Kitchn sheet-pan salmon and green beans", "url": "https://www.thekitchn.com/sheet-pan-salmon-tomatoes-green-beans-recipe-23843340" },
+        { "kind": "web", "label": "Serious Eats easy baked salmon", "url": "https://www.seriouseats.com/easy-baked-salmon-recipes-12141053" },
+        { "kind": "x", "label": "weeknight garlic butter salmon", "url": "https://x.com/lvzqj22267414/status/2106600536455930335" }
       ]
     }
   ]
