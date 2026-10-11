@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T15:02:00Z",
-  "weekStart": "2026-10-05",
+  "generatedAt": "2026-10-11T15:02:00Z",
+  "weekStart": "2026-10-12",
   "recipes": [
     {
       "id": "web-mon",
@@ -10,7 +10,7 @@
       "minutes": 25,
       "calories": 510,
       "servings": 2,
-      "summary": "Keeper from last week. 93% turkey browned with onion and pepper, then black beans, salsa, and cumin. Corn tortillas and avocado on the side.",
+      "summary": "93% turkey browned with onion and pepper, then black beans, salsa, and cumin. Corn tortillas and avocado on the side. Keeper repeat.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "1 lb 93% all-natural ground turkey" },
         { "section": "Produce", "name": "1 yellow onion" },
@@ -31,7 +31,8 @@
       ],
       "sources": [
         { "kind": "web", "label": "Budget Bytes turkey taco skillet", "url": "https://www.budgetbytes.com/turkey-taco-skillet/" },
-        { "kind": "reddit", "label": "r/EatCheapAndHealthy turkey skillet", "url": "https://www.reddit.com/r/EatCheapAndHealthy/comments/vjqkm7/loaded_baked_sweet_potato_with_ground_turkey/" }
+        { "kind": "web", "label": "Skinnytaste turkey taco skillet", "url": "https://www.skinnytaste.com/turkey-taco-skillet/" },
+        { "kind": "reddit", "label": "r/RateMyPlate 30-min taco skillet", "url": "https://www.reddit.com/r/RateMyPlate/comments/1pthxtx/30minute_one_pan_taco_skillet" }
       ]
     },
     {
@@ -42,7 +43,7 @@
       "minutes": 28,
       "calories": 530,
       "servings": 2,
-      "summary": "Boneless thighs seared, then a quick garlic-tomato pan sauce over whole-wheat pasta. Basil and a little Parmesan to finish.",
+      "summary": "Boneless thighs seared, then a quick garlic-tomato pan sauce over whole-wheat pasta. Basil and a little Parmesan to finish. Keeper repeat.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs" },
         { "section": "Produce", "name": "3 garlic cloves" },
@@ -60,7 +61,7 @@
       ],
       "sources": [
         { "kind": "web", "label": "Budget Bytes herb butter chicken thighs", "url": "https://www.budgetbytes.com/herb-butter-chicken-thighs/" },
-        { "kind": "x", "label": "air fryer chicken over pasta", "url": "https://x.com/goldengracewsah/status/2106303932754739647" }
+        { "kind": "web", "label": "Simply Recipes Italian skillet chicken", "url": "https://www.simplyrecipes.com/recipes/italian_skillet_chicken_with_spinach_tomatoes_and_onions/" }
       ]
     },
     {
@@ -74,6 +75,7 @@
       "summary": "Her plate: EZ-peel shrimp with broccoli, pepper, soy, and ginger over jasmine rice. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "¾ lb large EZ-peel shrimp" },
+        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs (his plate)" },
         { "section": "Produce", "name": "1 head broccoli" },
         { "section": "Produce", "name": "1 red bell pepper" },
         { "section": "Produce", "name": "1-inch ginger" },
@@ -89,8 +91,8 @@
         "Splash soy, toss, scatter green onion. Serve over rice."
       ],
       "sources": [
-        { "kind": "web", "label": "Inspired Taste shrimp stir fry", "url": "https://www.inspiredtaste.net/93266/shrimp-stir-fry-recipe/" },
-        { "kind": "web", "label": "Skinnytaste shrimp stir fry", "url": "https://www.skinnytaste.com/shrimp-stir-fry/" }
+        { "kind": "web", "label": "Skinnytaste shrimp stir fry", "url": "https://www.skinnytaste.com/shrimp-stir-fry/" },
+        { "kind": "web", "label": "Well Plated shrimp and broccoli", "url": "https://www.wellplated.com/shrimp-and-broccoli-stir-fry/" }
       ]
     },
     {
@@ -104,6 +106,7 @@
       "summary": "Her plate: Atlantic salmon roasted with green beans, cherry tomatoes, and lemon. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "2 Atlantic salmon portions (~6 oz each)" },
+        { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs (his plate)" },
         { "section": "Produce", "name": "¾ lb green beans" },
         { "section": "Produce", "name": "1 pint cherry tomatoes" },
         { "section": "Produce", "name": "1 lemon" },
@@ -118,8 +121,8 @@
       ],
       "sources": [
         { "kind": "web", "label": "Kitchn sheet-pan salmon and green beans", "url": "https://www.thekitchn.com/sheet-pan-salmon-tomatoes-green-beans-recipe-23843340" },
-        { "kind": "web", "label": "Serious Eats easy baked salmon", "url": "https://www.seriouseats.com/easy-baked-salmon-recipes-12141053" },
-        { "kind": "x", "label": "weeknight garlic butter salmon", "url": "https://x.com/lvzqj22267414/status/2106600536455930335" }
+        { "kind": "web", "label": "EatingWell lemon-garlic sheet-pan salmon", "url": "https://www.eatingwell.com/lemon-garlic-sheet-pan-salmon-with-potatoes-green-beans-8719029" },
+        { "kind": "web", "label": "Serious Eats 30-min salmon", "url": "https://www.seriouseats.com/30-minute-salmon-recipes-11873700" }
       ]
     }
   ]
