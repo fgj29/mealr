@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T15:02:00Z",
-  "weekStart": "2026-10-12",
+  "generatedAt": "2026-10-18T15:10:00Z",
+  "weekStart": "2026-10-19",
   "recipes": [
     {
       "id": "web-mon",
@@ -10,7 +10,7 @@
       "minutes": 25,
       "calories": 510,
       "servings": 2,
-      "summary": "93% turkey browned with onion and pepper, then black beans, salsa, and cumin. Corn tortillas and avocado on the side. Keeper repeat.",
+      "summary": "93% turkey browned with onion and pepper, then black beans, salsa, and cumin. Corn tortillas and avocado on the side. Keeper from last week.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "1 lb 93% all-natural ground turkey" },
         { "section": "Produce", "name": "1 yellow onion" },
@@ -31,8 +31,7 @@
       ],
       "sources": [
         { "kind": "web", "label": "Budget Bytes turkey taco skillet", "url": "https://www.budgetbytes.com/turkey-taco-skillet/" },
-        { "kind": "web", "label": "Skinnytaste turkey taco skillet", "url": "https://www.skinnytaste.com/turkey-taco-skillet/" },
-        { "kind": "reddit", "label": "r/RateMyPlate 30-min taco skillet", "url": "https://www.reddit.com/r/RateMyPlate/comments/1pthxtx/30minute_one_pan_taco_skillet" }
+        { "kind": "reddit", "label": "r/EatCheapAndHealthy go-to meals", "url": "https://www.reddit.com/r/EatCheapAndHealthy/comments/1po8ejb/what_are_your_5_goto_meals" }
       ]
     },
     {
@@ -43,7 +42,7 @@
       "minutes": 28,
       "calories": 530,
       "servings": 2,
-      "summary": "Boneless thighs seared, then a quick garlic-tomato pan sauce over whole-wheat pasta. Basil and a little Parmesan to finish. Keeper repeat.",
+      "summary": "Boneless thighs seared, then a quick garlic-tomato pan sauce over whole-wheat pasta. Basil and a little Parmesan to finish. Keeper from last week.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs" },
         { "section": "Produce", "name": "3 garlic cloves" },
@@ -92,7 +91,8 @@
       ],
       "sources": [
         { "kind": "web", "label": "Skinnytaste shrimp stir fry", "url": "https://www.skinnytaste.com/shrimp-stir-fry/" },
-        { "kind": "web", "label": "Well Plated shrimp and broccoli", "url": "https://www.wellplated.com/shrimp-and-broccoli-stir-fry/" }
+        { "kind": "web", "label": "Well Plated shrimp and broccoli", "url": "https://www.wellplated.com/shrimp-and-broccoli-stir-fry/" },
+        { "kind": "x", "label": "shrimp stir-fry post", "url": "https://x.com/CocoActiveNutri/status/2108452611401670832" }
       ]
     },
     {
