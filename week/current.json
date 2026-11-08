@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T16:03:00Z",
-  "weekStart": "2026-11-02",
+  "generatedAt": "2026-11-08T16:03:00Z",
+  "weekStart": "2026-11-09",
   "recipes": [
     {
       "id": "web-mon",
@@ -8,7 +8,7 @@
       "cuisine": "Mexican",
       "protein": "turkey",
       "minutes": 22,
-      "calories": 480,
+      "calories": 490,
       "servings": 2,
       "summary": "93% ground turkey browned with onion, bell pepper, black beans, and salsa. Serve with corn tortillas, avocado, and lime.",
       "ingredients": [
@@ -36,31 +36,32 @@
     },
     {
       "id": "web-tue",
-      "title": "Garlic tomato chicken skillet with pasta",
+      "title": "Garlic Parmesan chicken bites",
       "cuisine": "Italian",
       "protein": "chicken",
-      "minutes": 28,
-      "calories": 530,
+      "minutes": 20,
+      "calories": 520,
       "servings": 2,
-      "summary": "Boneless chicken thighs seared then finished in a quick garlic and cherry tomato pan sauce over whole-wheat pasta with basil and Parmesan.",
+      "summary": "Bite-size chicken thighs seared in butter with garlic and tossed in Parmesan. Serve with whole-wheat pasta and steamed broccoli.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs" },
         { "section": "Produce", "name": "3 garlic cloves" },
-        { "section": "Produce", "name": "1 pint cherry tomatoes" },
-        { "section": "Produce", "name": "fresh basil" },
-        { "section": "Grocery aisles", "name": "olive oil" },
+        { "section": "Produce", "name": "1 head broccoli" },
+        { "section": "Produce", "name": "fresh parsley" },
+        { "section": "Dairy", "name": "Parmesan wedge" },
+        { "section": "Dairy", "name": "butter" },
         { "section": "Grocery aisles", "name": "whole-wheat pasta, 6 oz" },
-        { "section": "Dairy", "name": "Parmesan wedge" }
+        { "section": "Grocery aisles", "name": "olive oil" }
       ],
       "steps": [
-        "Bring a pot of salted water to a boil and cook the pasta according to the package. Slice the chicken into strips and halve the tomatoes.",
-        "Heat a large skillet over medium-high with a little olive oil. Season the chicken with salt and pepper. Sear until browned and cooked through, about 6 minutes. Remove to a plate.",
-        "In the same skillet, cook the minced garlic 30 seconds, then add the tomatoes. Cook until they soften and burst, about 4 minutes. Splash in a little pasta water if it looks dry.",
-        "Return the chicken and drained pasta to the pan. Toss to coat. Tear basil over the top and grate Parmesan."
+        "Cut the chicken into 1-inch pieces and season with salt and pepper. Start the pasta in salted water. Cut broccoli into florets.",
+        "Melt 1 tbsp butter in a large skillet over medium-high. Sear the chicken in batches until golden and cooked through, about 4 minutes per side. Remove to a plate.",
+        "Add remaining butter and minced garlic to the skillet. Cook 30 seconds until fragrant. Return chicken, toss, then remove from heat and stir in grated Parmesan.",
+        "Steam or microwave the broccoli 3-4 minutes until tender-crisp. Drain pasta and toss with a little oil. Plate chicken over pasta with broccoli and parsley."
       ],
       "sources": [
-        { "kind": "web", "label": "Simply Recipes Italian Skillet Chicken", "url": "https://www.simplyrecipes.com/easy-skillet-dinner-recipes-11716903" },
-        { "kind": "web", "label": "Budget Bytes sheet pan dinners", "url": "https://www.budgetbytes.com/sheet-pan-dinners/" }
+        { "kind": "web", "label": "The Kitchn Garlic Parmesan Chicken Bites", "url": "https://www.thekitchn.com/garlic-parmesan-chicken-bites-recipe-23650735" },
+        { "kind": "web", "label": "The Kitchn one-pan 20-minute dinners", "url": "https://www.thekitchn.com/one-pan-dinners-ready-in-20-minutes-or-less-23780151" }
       ]
     },
     {
@@ -68,8 +69,8 @@
       "title": "Soy-ginger shrimp stir-fry",
       "cuisine": "Asian",
       "protein": "shrimp",
-      "minutes": 20,
-      "calories": 460,
+      "minutes": 18,
+      "calories": 470,
       "servings": 2,
       "summary": "Her plate: EZ-peel shrimp stir-fried with broccoli, bell pepper, soy, and ginger over jasmine rice. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
@@ -91,36 +92,36 @@
       ],
       "sources": [
         { "kind": "web", "label": "Simply Recipes Easy Shrimp Stir Fry", "url": "https://www.simplyrecipes.com/shrimp-stir-fry-recipe-11919515" },
-        { "kind": "web", "label": "Serious Eats quick shrimp dinners", "url": "https://www.seriouseats.com/easy-shrimp-dinners-11916545" }
+        { "kind": "x", "label": "X weeknight shrimp ideas", "url": "https://x.com/phresh_arrow/status/2118225347179077664" }
       ]
     },
     {
       "id": "web-thu",
-      "title": "Sheet-pan salmon with green beans and tomatoes",
+      "title": "Sheet-pan salmon with potatoes and green beans",
       "cuisine": "American",
       "protein": "salmon",
-      "minutes": 25,
+      "minutes": 28,
       "calories": 510,
       "servings": 2,
-      "summary": "Her plate: Atlantic salmon roasted with green beans, cherry tomatoes, garlic, and lemon. App swaps chicken onto his plate with the same sides.",
+      "summary": "Her plate: Atlantic salmon roasted with baby potatoes, green beans, garlic, and lemon. App swaps chicken onto his plate with the same sides.",
       "ingredients": [
         { "section": "Meat & Seafood", "name": "2 Atlantic salmon portions (about 6 oz each)" },
         { "section": "Meat & Seafood", "name": "¾ lb boneless chicken thighs (his plate)" },
+        { "section": "Produce", "name": "1 lb baby potatoes" },
         { "section": "Produce", "name": "¾ lb green beans" },
-        { "section": "Produce", "name": "1 pint cherry tomatoes" },
         { "section": "Produce", "name": "1 lemon" },
         { "section": "Produce", "name": "2 garlic cloves" },
         { "section": "Grocery aisles", "name": "olive oil" }
       ],
       "steps": [
-        "Heat the oven to 425°F. Toss the green beans and halved tomatoes with olive oil, smashed garlic, salt, and pepper on a sheet pan.",
-        "Roast the vegetables for 8 minutes. Push them to the sides of the pan.",
-        "Season the salmon with salt, pepper, and a little oil. Place it in the center. Roast 10-12 minutes until the salmon flakes easily.",
+        "Heat the oven to 425°F. Halve the baby potatoes. Toss potatoes with olive oil, salt, and pepper on a sheet pan. Roast 12 minutes.",
+        "Meanwhile, trim the green beans. Toss beans with a little oil, smashed garlic, salt, and pepper.",
+        "Push potatoes to one side. Add green beans and place salmon in the center. Season salmon with salt, pepper, and a drizzle of oil. Roast 12-14 minutes until salmon flakes and veggies are tender.",
         "Squeeze lemon over the plates before serving."
       ],
       "sources": [
-        { "kind": "web", "label": "The Kitchn End-of-Summer Sheet Pan Salmon", "url": "https://www.thekitchn.com/sheet-pan-salmon-tomatoes-green-beans-recipe-23843340" },
-        { "kind": "web", "label": "EatingWell non-chicken sheet-pan dinners", "url": "https://www.eatingwell.com/non-chicken-sheet-pan-dinner-recipes-12195413" }
+        { "kind": "web", "label": "Budget Bytes One Pan Salmon Dinner", "url": "https://www.budgetbytes.com/one-pan-salmon-dinner/" },
+        { "kind": "web", "label": "EatingWell Lemon-Garlic Sheet-Pan Salmon", "url": "https://www.eatingwell.com/lemon-garlic-sheet-pan-salmon-with-potatoes-green-beans-8719029" }
       ]
     }
   ]
